@@ -9,7 +9,7 @@ Simple starter for NestJs, postgres, GraphQl, Prisma application
 ## Installation
 
 ```bash
-$ yarn
+$ npm install
 $ docker-compose up -d
 $ prisma deploy
 ```
